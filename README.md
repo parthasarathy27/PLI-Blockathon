@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/nft-college-reward-system.git
+    git clone https://github.com/your-username/PLI-Blockathon.git
     ```
 
 2. Install dependencies:

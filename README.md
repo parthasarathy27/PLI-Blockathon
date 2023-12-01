@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your GitHub repository for a project involving a reward system using NFTs. Remember to customize it according to your specific project details.
-
----
-
 # NFT Reward System
 
 ## Overview

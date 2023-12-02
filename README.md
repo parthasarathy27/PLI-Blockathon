@@ -82,8 +82,6 @@ Visit `http://localhost:3000` to access the NFT College Reward System.
 
 ## Architecture
 
-![System Architecture](docs/architecture.png)
-
 Describe the architecture of your system, including how smart contracts interact, the flow of NFT issuance, and how the web interface communicates with the blockchain.
 
 ## Contribution Guidelines

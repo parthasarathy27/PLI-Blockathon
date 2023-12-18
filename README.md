@@ -1,4 +1,4 @@
-# NFT College Reward System
+## NFT College Reward System
 
 ## Table of Contents
 - [Introduction](#introduction)

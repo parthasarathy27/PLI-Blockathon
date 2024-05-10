@@ -1,6 +1,9 @@
 ## NFT College Reward System
 
+The NFT College Reward System is a pioneering initiative designed to revolutionize the traditional college reward and recognition framework by harnessing the power of Non-Fungible Tokens (NFTs). This innovative system aims to provide students with tangible, digital assets in the form of NFTs, which represent various achievements, milestones, and contributions within the academic environment.
+
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
